@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_tabbar/my_clipper.dart';
 
-import 'my_tabbar.dart';
+import 'my_page.dart';
 
 void main() {
   runApp(const MyApp());
